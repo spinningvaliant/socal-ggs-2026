@@ -1,0 +1,949 @@
+[
+  {
+    "prefix": "AutisticDuck",
+    "gamerTag": "a schwa",
+    "name": "",
+    "twitter": "heyitsaschwa",
+    "pronoun": "he/him",
+    "custom_textbox": "",
+    "mains": {
+      "ggst": [
+        [
+          "Jack-O'",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "AutisticDuck",
+    "gamerTag": "Gurt",
+    "name": "",
+    "twitter": "",
+    "pronoun": "he/him",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Goldlewis Dickinson",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "AutisticDuck",
+    "gamerTag": "SexyCarcass",
+    "name": "",
+    "twitter": "",
+    "pronoun": "they/them",
+    "custom_textbox": "",
+    "mains": {
+      "ggst": [
+        [
+          "Giovanna",
+          0,
+          ""
+        ]
+      ]
+    },
+    "country_code": "Nonbinary"
+  },
+  {
+    "prefix": "AutisticDuck",
+    "gamerTag": "PFaB AutisticDuck",
+    "name": "",
+    "twitter": "",
+    "pronoun": "he/him",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Potemkin",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "AutisticDuck",
+    "gamerTag": "SCS Valentyne",
+    "name": "",
+    "twitter": "",
+    "pronoun": "he/him",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Jam Kuradoberi",
+          0,
+          ""
+        ],
+        [
+          "Bridget",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "AutisticDuck",
+    "gamerTag": "kilipse",
+    "name": "",
+    "twitter": "",
+    "pronoun": "",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Unika",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "Botan",
+    "gamerTag": "Botan",
+    "name": "",
+    "twitter": "",
+    "pronoun": "she/her",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Leo Whitefang",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "Botan",
+    "gamerTag": "Grandpy",
+    "name": "",
+    "twitter": "",
+    "pronoun": "she/her",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Ramlethal Valentine",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "Botan",
+    "gamerTag": "Aysee",
+    "name": "",
+    "twitter": "",
+    "pronoun": "he/him",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Asuka R#",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "Botan",
+    "gamerTag": "SCS AshAshAshAsh",
+    "name": "",
+    "twitter": "",
+    "pronoun": "he/him",
+    "custom_textbox": "LinkedIn: Peter Mazin",
+    "mains": {
+      "ggst": [
+        [
+          "Leo Whitefang",
+          0,
+          ""
+        ]
+      ]
+    },
+    "country_code": "California"
+  },
+  {
+    "prefix": "Botan",
+    "gamerTag": "Jesus_Joestar",
+    "name": "",
+    "twitter": "",
+    "pronoun": "he/him",
+    "custom_textbox": "twitch.tv/Jesus_Joestar1",
+    "mains": {
+      "ggst": [
+        [
+          "Leo Whitefang",
+          0,
+          ""
+        ]
+      ]
+    },
+    "country_code": "California"
+  },
+  {
+    "prefix": "Botan",
+    "gamerTag": "+edge Llamartist",
+    "name": "",
+    "twitter": "",
+    "pronoun": "she/her",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Ky Kiske",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "Enickma",
+    "gamerTag": "shtkn",
+    "name": "",
+    "twitter": "",
+    "pronoun": "he/him",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Ky Kiske",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "Enickma",
+    "gamerTag": "devotion",
+    "name": "",
+    "twitter": "",
+    "pronoun": "he/him",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Giovanna",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "Enickma",
+    "gamerTag": "Hangery",
+    "name": "",
+    "twitter": "BLAHBLAHneeb",
+    "pronoun": "",
+    "custom_textbox": "",
+    "mains": {
+      "ggst": [
+        [
+          "Potemkin",
+          0,
+          ""
+        ]
+      ]
+    },
+    "country_code": "California"
+  },
+  {
+    "prefix": "Enickma",
+    "gamerTag": "lolwarcueid",
+    "name": "",
+    "twitter": "lolwarcueid",
+    "pronoun": "",
+    "custom_textbox": "",
+    "mains": {
+      "ggst": [
+        [
+          "Lucyna \"Lucy\" Kushinada",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "Enickma",
+    "gamerTag": "MEI Anonpi",
+    "name": "",
+    "twitter": "anonpi_strive",
+    "pronoun": "",
+    "custom_textbox": "",
+    "mains": {
+      "ggst": [
+        [
+          "Giovanna",
+          0,
+          ""
+        ]
+      ]
+    },
+    "country_code": "TW"
+  },
+  {
+    "prefix": "Enickma",
+    "gamerTag": "PFaB Enickma",
+    "name": "",
+    "twitter": "",
+    "pronoun": "he/him",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Baiken",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "ICDS",
+    "gamerTag": "ICDS",
+    "name": "",
+    "twitter": "",
+    "pronoun": "he/him",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Millia Rage",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "ICDS",
+    "gamerTag": "Kitsch",
+    "name": "",
+    "twitter": "",
+    "pronoun": "he/him",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Sin Kiske",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "ICDS",
+    "gamerTag": "KGE Romerulez",
+    "name": "",
+    "twitter": "",
+    "pronoun": "he/him",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Baiken",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "ICDS",
+    "gamerTag": "Walnut",
+    "name": "",
+    "twitter": "w_alnutt",
+    "pronoun": "",
+    "custom_textbox": "",
+    "mains": {
+      "ggst": [
+        [
+          "Ramlethal Valentine",
+          0,
+          ""
+        ]
+      ]
+    },
+    "country_code": "PH"
+  },
+  {
+    "prefix": "ICDS",
+    "gamerTag": "Knock",
+    "name": "",
+    "twitter": "",
+    "pronoun": "he/him",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Chipp Zanuff",
+          0,
+          ""
+        ],
+        [
+          "Giovanna",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "ICDS",
+    "gamerTag": "#PS PHAPPER",
+    "name": "",
+    "twitter": "",
+    "pronoun": "he/him",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Sol Badguy",
+          0,
+          ""
+        ],
+        [
+          "Happy Chaos",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "KuriGohan",
+    "gamerTag": "KingDoppio",
+    "name": "",
+    "twitter": "",
+    "pronoun": "",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Leo Whitefang",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "KuriGohan",
+    "gamerTag": "WLWuna",
+    "name": "",
+    "twitter": "WLWuna",
+    "pronoun": "she/her",
+    "custom_textbox": "",
+    "mains": {
+      "ggst": [
+        [
+          "Giovanna",
+          0,
+          ""
+        ]
+      ]
+    },
+    "country_code": "Transgender"
+  },
+  {
+    "prefix": "KuriGohan",
+    "gamerTag": "SPiRAL",
+    "name": "",
+    "twitter": "chhuor_will",
+    "pronoun": "",
+    "custom_textbox": "",
+    "mains": {
+      "ggst": [
+        [
+          "Ky Kiske",
+          0,
+          ""
+        ],
+        [
+          "Jack-O'",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "KuriGohan",
+    "gamerTag": "calpico",
+    "name": "",
+    "twitter": "",
+    "pronoun": "she/her",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Bridget",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "KuriGohan",
+    "gamerTag": "SCS MASH KuriGohan",
+    "name": "",
+    "twitter": "",
+    "pronoun": "he/him",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Bridget",
+          0,
+          ""
+        ],
+        [
+          "Unika",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "KuriGohan",
+    "gamerTag": "SCS Nicomimi",
+    "name": "",
+    "twitter": "",
+    "pronoun": "she/her",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Jam Kuradoberi",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "Kyet",
+    "gamerTag": "8&",
+    "name": "",
+    "twitter": "",
+    "pronoun": "he/him",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Faust",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "Kyet",
+    "gamerTag": "Al\u00e9",
+    "name": "",
+    "twitter": "AleR118",
+    "pronoun": "",
+    "custom_textbox": "",
+    "mains": {
+      "ggst": [
+        [
+          "Testament",
+          0,
+          ""
+        ]
+      ]
+    },
+    "country_code": "California"
+  },
+  {
+    "prefix": "Kyet",
+    "gamerTag": "NoPro",
+    "name": "",
+    "twitter": "",
+    "pronoun": "he/him",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Ky Kiske",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "Kyet",
+    "gamerTag": "Kyet",
+    "name": "",
+    "twitter": "",
+    "pronoun": "he/him",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Axl Low",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "Kyet",
+    "gamerTag": "stumblebee.art Syvrus",
+    "name": "",
+    "twitter": "",
+    "pronoun": "",
+    "custom_textbox": "",
+    "mains": {
+      "ggst": [
+        [
+          "Axl Low",
+          0,
+          ""
+        ]
+      ]
+    },
+    "country_code": "California"
+  },
+  {
+    "prefix": "Kyet",
+    "gamerTag": "SCS Burgmin",
+    "name": "",
+    "twitter": "",
+    "pronoun": "",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Baiken",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "Mistikal",
+    "gamerTag": "Mistikal",
+    "name": "",
+    "twitter": "",
+    "pronoun": "he/him",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Queen Dizzy",
+          0,
+          ""
+        ],
+        [
+          "I-No",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "Mistikal",
+    "gamerTag": "ARC_ANA",
+    "name": "",
+    "twitter": "",
+    "pronoun": "she/her",
+    "custom_textbox": "",
+    "mains": {
+      "ggst": [
+        [
+          "Jack-O'",
+          0,
+          ""
+        ],
+        [
+          "Potemkin",
+          0,
+          ""
+        ]
+      ]
+    },
+    "country_code": "TR"
+  },
+  {
+    "prefix": "Mistikal",
+    "gamerTag": "BocchiMix",
+    "name": "",
+    "twitter": "",
+    "pronoun": "he/him",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "I-No",
+          0,
+          ""
+        ],
+        [
+          "Happy Chaos",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "Mistikal",
+    "gamerTag": "AsianCthulhu",
+    "name": "",
+    "twitter": "",
+    "pronoun": "he/him",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Goldlewis Dickinson",
+          0,
+          ""
+        ],
+        [
+          "I-No",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "Mistikal",
+    "gamerTag": "Peter",
+    "name": "",
+    "twitter": "",
+    "pronoun": "he/him",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Potemkin",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "Mistikal",
+    "gamerTag": "BranMuffin",
+    "name": "",
+    "twitter": "",
+    "pronoun": "he/him",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Anji Mito",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "coffeexe",
+    "gamerTag": "coffeexe",
+    "name": "",
+    "twitter": "",
+    "pronoun": "she/her",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Asuka R#",
+          0,
+          ""
+        ],
+        [
+          "Millia Rage",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "coffeexe",
+    "gamerTag": "mars",
+    "name": "",
+    "twitter": "",
+    "pronoun": "they/them",
+    "custom_textbox": "",
+    "mains": {
+      "ggst": [
+        [
+          "Queen Dizzy",
+          0,
+          ""
+        ]
+      ]
+    },
+    "country_code": "Lesbian"
+  },
+  {
+    "prefix": "coffeexe",
+    "gamerTag": "stilljmz",
+    "name": "",
+    "twitter": "",
+    "pronoun": "he/him",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Millia Rage",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "coffeexe",
+    "gamerTag": "Logi Carra",
+    "name": "",
+    "twitter": "",
+    "pronoun": "he/him",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Millia Rage",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "coffeexe",
+    "gamerTag": "PFGG Crackin Atkins",
+    "name": "",
+    "twitter": "",
+    "pronoun": "he/him",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Queen Dizzy",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "coffeexe",
+    "gamerTag": "ZerosDaduchos",
+    "name": "",
+    "twitter": "",
+    "pronoun": "she/her",
+    "custom_textbox": "",
+    "mains": {
+      "ggst": [
+        [
+          "Ky Kiske",
+          0,
+          ""
+        ]
+      ]
+    },
+    "country_code": "Lesbian"
+  },
+  {
+    "prefix": "AutisticDuck",
+    "gamerTag": "sophie d megafist",
+    "name": "",
+    "twitter": "",
+    "pronoun": "she/her",
+    "custom_textbox": "",
+    "country_code": "California",
+    "mains": {
+      "ggst": [
+        [
+          "Potemkin",
+          0,
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "prefix": "",
+    "gamerTag": "Dr No",
+    "name": "Name",
+    "twitter": "Twitter",
+    "pronoun": "she/her",
+    "custom_textbox": "Additional",
+    "mains": {
+      "ggst": [
+        [
+          "Sol Badguy",
+          0,
+          ""
+        ]
+      ]
+    },
+    "country_code": "California"
+  }
+]
